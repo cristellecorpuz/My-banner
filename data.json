@@ -1,0 +1,19 @@
+{
+  "languages": {
+    "Python": 90,
+    "HTML": 80,
+    "JavaScript": 60,
+    "CSS": 20,
+    "SQL": 50,
+    "Linux": 85,
+    "C++": 20
+  },
+  "model": {
+    "VGG16": 20,
+    "MNIST": 70,
+    "ResNet": 80,
+    "YOLO": 90,
+    "LangChain": 30,
+    "CNN": 40
+  }
+}
